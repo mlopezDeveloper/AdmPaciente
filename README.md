@@ -1,4 +1,4 @@
-# Administracion de paciente para Veterianaria
+<h1 align="center"> Administracion de paciente para Veterianaria </h1>
 
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
 ![Static Badge](https://img.shields.io/badge/TAILWIND-blue)
