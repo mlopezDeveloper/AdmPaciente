@@ -15,3 +15,11 @@
 ![image](https://github.com/Codermex-freelance/AdmPaciente/assets/143505447/4c878346-95be-4c73-9b4e-dfdf56d7af52) ![image](https://github.com/Codermex-freelance/AdmPaciente/assets/143505447/07592da1-f41d-48b2-8b8e-1e87d98bf4a0)
 
 </div>
+
+### Instalación
+
+1. Clona el repositorio
+
+   ```
+   git clone https://github.com/Codermex-freelance/AdmPaciente.git
+   ```
