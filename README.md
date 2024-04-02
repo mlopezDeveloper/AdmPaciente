@@ -1,7 +1,7 @@
 <h1 align="center"> Administracion de paciente 
 
   ![Static Badge](https://img.shields.io/badge/HTML-orange)
-  ![Static Badge](https://img.shields.io/badge/TAILWIND-blue)
+  ![Static Badge](https://img.shields.io/badge/CSS-blue)
   ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
 </h1>
 
